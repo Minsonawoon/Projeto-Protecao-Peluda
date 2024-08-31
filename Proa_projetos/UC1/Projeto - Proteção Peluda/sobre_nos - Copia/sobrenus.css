@@ -169,7 +169,7 @@ header {
         line-height: normal;
         letter-spacing: 1.2px;
         strong{
-          color: #390040;
+          color: #89029b;
         }
       }
     }
@@ -177,19 +177,22 @@ header {
   #missao{
     background-color: #F4B625;
       h3{
+        margin-top: 0.5rem;
         color: #55400F;
       }
   }
   #visao{
     background: #0E4229;
     h3{
+      margin-top: 1rem;
       color:#6BFFB8;
     }
   }
   #valores{
     background-color: #840694;
     h3{
-      color: #390040;
+      margin-top: 1rem;
+      color: #dcd8dd;
     }
   }
   /* historia */
@@ -216,9 +219,7 @@ header {
   h2{
     color: #653623;
     width: 420px;
-    strong{
-      color: #840694;
-    }
+    
   }
   p{
     width: 70%;
@@ -236,8 +237,11 @@ header {
 }
 #a2018,#a2020,#a2022,#a2024{
   margin-left: 10%;
+  text-align: center;
+  
 }
 #a2019,#a2021,#a2023{
+  text-align: center;
   margin-right: 10%;
 }
 /* junte se*/
