@@ -28,8 +28,6 @@ Ser a plataforma líder em direcionamento para ONGs de adoção de animais, reco
 
 ![ferramentas](https://github.com/user-attachments/assets/5b4fd1a8-45a8-45ec-b4cb-1abb3a5c820b)
 
-###site: https://minsonawoon.github.io/Projeto-Protecao-Peluda/Proa_projetos/UC1/Projeto%20-%20Prote%C3%A7%C3%A3o%20Peluda/Home/index.html
-
 ### **Autores:** 
 - Isabela Clemente: https://www.linkedin.com/in/isabela-clemente-da-silva/
 - Wesley Rocha: https://www.linkedin.com/in/wesley-rocha-908128321/
